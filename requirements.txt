@@ -1,0 +1,7 @@
+openai
+langchain
+faiss-cpu
+tiktoken
+pypdf
+boto3
+cohere
